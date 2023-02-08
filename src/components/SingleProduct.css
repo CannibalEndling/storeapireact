@@ -1,0 +1,14 @@
+.id {
+    background-color: white;
+    border-radius: 40px;
+    display: flex;
+    display: inline-block;  
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+    width: 400px;
+    height: 500px;
+    margin: 10px;
+  }
+  
